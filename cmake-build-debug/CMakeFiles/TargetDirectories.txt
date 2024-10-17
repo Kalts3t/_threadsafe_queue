@@ -1,0 +1,3 @@
+C:/Users/Leon/CLionProjects/ threadsafe_queue/cmake-build-debug/CMakeFiles/_threadsafe_queue.dir
+C:/Users/Leon/CLionProjects/ threadsafe_queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Leon/CLionProjects/ threadsafe_queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
